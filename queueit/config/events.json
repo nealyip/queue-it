@@ -1,0 +1,16 @@
+[
+  {
+    "id": "123",
+    "name": "coding-lesson",
+    "concurrency": 3,
+    "sessionExpirySecond": 60,
+    "showQueueLength": true
+  },
+  {
+    "id": "124",
+    "name": "secret",
+    "concurrency": 3,
+    "sessionExpirySecond": 60,
+    "showQueueLength": false
+  }
+]
